@@ -4,10 +4,8 @@
 {% when "disqus" %}
   {% include JB/comments-providers/disqus %}
 
-<!--
 {% when "livefyre" %}
   {% include JB/comments-providers/livefyre %}
--->
 
 {% when "intensedebate" %}
   {% include JB/comments-providers/intensedebate %}
